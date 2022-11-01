@@ -59,6 +59,14 @@ A **singleplayer** violent arcade first person shooter.
 
 A **singleplayer** game where the objective is to infect everyone.
 
+### [Chromium BSU](https://chromium-bsu.sourceforge.io/)
+
+A **singleplayer open source** video game where you have to shoot incoming enemy ships.
+
+### Modding
+
+It's open source.
+
 # Games with a pre existing AI.
 
 ## Procedurally generated
