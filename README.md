@@ -47,6 +47,15 @@ A **singleplayer** platformer game.
 #### Modding
 The game is open source.
 
+### [DOOM Eternal](https://store.steampowered.com/app/782330/DOOM_Eternal/)
+
+A **singleplayer** violent arcade first person shooter.
+
+#### Modding
+
+[eternalmods](https://wiki.eternalmods.com/)
+
+
 # Games with a pre existing AI.
 
 ## Procedurally generated
