@@ -71,9 +71,10 @@ It's open source.
 
 A **multiplayer** 2d party platformer game (which requires 2 players) where you fight with a hat (which is also your weakness)
 
-### [Sans boss fight](https://jcw87.github.io/c2-sans-fight/)
+### [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/)
 
-A **singleplayer** game where the objective is to beat Sans (from Undertale) in a boss fight.
+A **singleplayer** game where the objective is to beat Sans (from Undertale) in a boss fight.\
+[GitHub Source Code](https://github.com/jcw87/c2-sans-fight/)
 
 # Games with a pre existing AI.
 
