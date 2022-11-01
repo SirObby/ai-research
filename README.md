@@ -1,6 +1,8 @@
 # ai-research
 Games for AI research.
 
+Many of these games are Unity games, you can use [BepInEx](https://github.com/BepInEx/BepInEx/tree/v5.4.13) to help mod some of these games.
+
 # Games without AI
 
 ### [Enter The Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/)
