@@ -1,7 +1,7 @@
 # ai-research
 Games for AI research.
 
-## Games without AI
+# Games without AI
 
 ### [Enter The Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/)
 
@@ -21,7 +21,9 @@ The game only requires the cursor to be used.
 [BetterMotorways](https://github.com/matias-kovero/BetterMotorways)
 C#. Not a modloader, but can be modified in to an AI interface.
 
-## Games with a pre existing AI.
+# Games with a pre existing AI.
+
+## Procedurally generated
 
 ### [Unrailed!](https://store.steampowered.com/app/1016920/Unrailed/)
 
@@ -29,3 +31,13 @@ Game where the objective is to build roads for the train to reach the destinatio
 
 ## Pre existing AI
 [Unrailed AI](https://github.com/Flowtter/unrailed-ai)
+
+## Not procedurally generated
+
+### [supertuxkart](https://supertuxkart.net)
+
+Game where the objective is to race other cars through the map.
+
+## Pre existing AI 
+
+[SuperTux-AI](https://github.com/EZBUTD/SuperTux-AI)
