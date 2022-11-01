@@ -25,6 +25,10 @@ C#. Not a modloader, but can be modified in to an AI interface.
 
 A roguelike **singleplayer** game in which the objective is to defeat monsters and bosses. 
 
+### [Infectinator 3: Apocalypse](https://store.steampowered.com/app/666570/Infectonator_3_Apocalypse/)
+
+A **singleplayer** fast paced simulation-strategy game.
+
 #### Modding
 https://moddingofisaac.com/
 Not a modloader but instead you need to extract the mod into the game files, Moddingofisaac has tutorials on how to make a mod. This can be used to make a AI interface.
