@@ -86,7 +86,10 @@ May not work on Linux, it made my Gentoo Linux **unresponsive**.
 
 ### [Untitled goose game](https://store.steampowered.com/app/837470/Untitled_Goose_Game/)
 
-Objective is to complete task and to collect bells while annoying a peaceful village.
+Objective is to complete tasks and to collect bells while annoying a peaceful village.
+
+It may not be completely obvious what the player/AI has to do as tasks are not shown before completing them.\
+It is recommended to watch a playthrough of the game. The AI should have some sort of hints of what it should do.
 
 # Games with a pre existing AI.
 
