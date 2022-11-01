@@ -21,6 +21,14 @@ The game only requires the cursor to be used.
 [BetterMotorways](https://github.com/matias-kovero/BetterMotorways)
 C#. Not a modloader, but can be modified in to an AI interface.
 
+### [The Binding of Isaac Rebirth](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)
+
+A roguelike **singleplayer** game in which the objective is to defeat monsters and bosses. 
+
+#### Modding
+https://moddingofisaac.com/
+Not a modloader but instead you need to extract the mod into the game files, Moddingofisaac has tutorials on how to make a mod. This can be used to make a AI interface.
+
 # Games with a pre existing AI.
 
 ## Procedurally generated
