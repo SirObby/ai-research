@@ -42,7 +42,7 @@ Bonus points for using real hardware. :)
 
 ### [Super Tux](https://www.supertux.org/)
 
-A **singplayer** platformer game.
+A **singleplayer** platformer game.
 
 #### Modding
 The game is open source.
