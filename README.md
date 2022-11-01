@@ -73,6 +73,8 @@ It's open source.
 
 A **multiplayer** 2d party platformer game (which requires 2 players) where you fight with a hat (which is also your weakness)
 
+If you make a King of the Hat AI I recommend joining the [discord](https://discord.gg/kingofthehat) and after your AI is good you should challenge the discord user "Abook"
+
 ### [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/)
 
 A **singleplayer** game where the objective is to beat Sans (from Undertale) in a boss fight.\
