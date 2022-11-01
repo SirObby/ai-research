@@ -56,6 +56,8 @@ A **singleplayer** game (which requires 2 players) where the objective is to bui
 
 A **singleplayer** roguelike rythmic dungeon game.
 
+AI trained using only recorded human game-plays, described in Joonas Pussinen's Masters thesis. However, there is a large gap in AI performance and human performance for this game. (https://erepo.uef.fi/handle/123456789/24370)
+
 #### Modding
 
 Built in mod loader.
