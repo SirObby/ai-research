@@ -35,6 +35,8 @@ A **singleplayer** **virtual reality** game where you have to hit boxes to the r
 You should use a custom Headset and Controller SteamVR drivers to emulate the hardware.\
 Bonus points for using real hardware. :)
 
+[Link to illustration](vrhardware.md)
+
 #### Modding
 [ModAssistant](https://github.com/Assistant/ModAssistant)
 
