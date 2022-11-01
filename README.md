@@ -67,6 +67,10 @@ A **singleplayer open source** video game where you have to shoot incoming enemy
 
 It's open source.
 
+### [King of the Hat](https://store.steampowered.com/app/837350/King_of_the_Hat/)
+
+A **multiplayer** 2d party platformer game (which requires 2 players) where you fight with a hat (which is also your weakness)
+
 # Games with a pre existing AI.
 
 ## Procedurally generated
