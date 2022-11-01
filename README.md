@@ -40,6 +40,13 @@ Bonus points for using real hardware. :)
 #### Modding
 [ModAssistant](https://github.com/Assistant/ModAssistant)
 
+### [Super Tux](https://www.supertux.org/)
+
+A **singplayer** platformer game.
+
+#### Modding
+The game is open source.
+
 # Games with a pre existing AI.
 
 ## Procedurally generated
