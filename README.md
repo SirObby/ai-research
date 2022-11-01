@@ -31,7 +31,8 @@ Not a modloader but instead you need to extract the mod into the game files, Mod
 
 ### [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 
-A **singleplayer** **virtual reality** game where you have to hit boxes to the rythm of a song.
+A **singleplayer** **virtual reality** game where you have to hit boxes to the rythm of a song.\
+You should use a custom Headset and Controller SteamVR drivers.
 
 #### Modding
 [ModAssistant](https://github.com/Assistant/ModAssistant)
