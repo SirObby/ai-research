@@ -52,6 +52,18 @@ A **singleplayer** game (which requires 2 players) where the objective is to bui
 [Unrailed AI](https://github.com/Flowtter/unrailed-ai)
 [Demonstration](https://www.youtube.com/watch?v=Hu6cn4zaFlU)
 
+### [Crypt of the Necrodancer](https://store.steampowered.com/category/rogue_like_rogue_lite/)
+
+A **singleplayer** roguelike rythmic dungeon game.
+
+#### Modding
+
+Built in mod loader.
+
+#### [Opensource clone](https://github.com/Zakru/opencrypt)
+Open source version of the game.
+
+
 ## Not procedurally generated
 
 ### [supertuxkart](https://supertuxkart.net)
