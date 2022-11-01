@@ -29,6 +29,13 @@ A roguelike **singleplayer** game in which the objective is to defeat monsters a
 https://moddingofisaac.com/
 Not a modloader but instead you need to extract the mod into the game files, Moddingofisaac has tutorials on how to make a mod. This can be used to make a AI interface.
 
+### [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
+
+A **singleplayer** **virtual reality** game where you have to hit boxes to the rythm of a song.
+
+#### Modding
+[ModAssistant](https://github.com/Assistant/ModAssistant)
+
 # Games with a pre existing AI.
 
 ## Procedurally generated
