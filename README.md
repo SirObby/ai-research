@@ -55,6 +55,9 @@ A **singleplayer** violent arcade first person shooter.
 
 [eternalmods](https://wiki.eternalmods.com/)
 
+### [Plague Inc](https://store.steampowered.com/app/246620/Plague_Inc_Evolved/)
+
+A **singleplayer** game where the objective is to infect everyone.
 
 # Games with a pre existing AI.
 
