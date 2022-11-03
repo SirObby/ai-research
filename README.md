@@ -77,7 +77,7 @@ If you make a King of the Hat AI I recommend joining the [discord](https://disco
 
 ### Modding
 
-Modding support is being written in https://github.com/ModTheHat
+Modding support is being written in [ModTheHat](https://github.com/ModTheHat)
 
 ### [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/)
 
