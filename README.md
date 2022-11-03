@@ -75,6 +75,10 @@ A **multiplayer** 2d party platformer game (which requires 2 players) where you 
 
 If you make a King of the Hat AI I recommend joining the [discord](https://discord.gg/kingofthehat) and after your AI is good you should challenge the discord user "Abook"
 
+### Modding
+
+Modding support is being written in https://github.com/ModTheHat
+
 ### [Bad Time Simulator](https://jcw87.github.io/c2-sans-fight/)
 
 A **singleplayer** game where the objective is to beat Sans (from Undertale) in a boss fight.\
